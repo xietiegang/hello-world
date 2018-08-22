@@ -1,3 +1,4 @@
 # hello-world
 This is my first GitHub!
-1st change
+2nd change
+some more info
